@@ -19,3 +19,5 @@ This Bash script provides a quick summary of system resource usage and login act
 2. **Make it executable:**
    bash
    chmod +x system_monitor.sh
+
+Project URL:-  https://roadmap.sh/projects/server-stats
